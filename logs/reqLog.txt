@@ -1,0 +1,16 @@
+Date & Time: 2024 04 04	20:55:12,	UUID: 481624ca-4372-4239-b50b-9361b902b866,	Message: /new-page.html	GET
+Date & Time: 2024 04 04	20:55:12,	UUID: 91445126-aa1f-4fec-adc3-0a86ea39692e,	Message: /css/style.css	GET
+Date & Time: 2024 04 04	20:55:12,	UUID: 8859e9de-60a6-4ea3-8148-84512835ceb2,	Message: /img/img1.jpg	GET
+Date & Time: 2024 04 04	20:57:13,	UUID: 0c1ce626-9de7-4cc4-acbf-c0c8fa9c0ed0,	Message: /new-page.html	GET
+Date & Time: 2024 04 04	20:58:16,	UUID: 165f8e37-c881-4999-b068-72ac5730b02c,	Message: /new-page.html	GET
+Date & Time: 2024 04 04	20:58:16,	UUID: ec0b808b-ff65-42f1-8c78-052986d125e2,	Message: /css/style.css	GET
+Date & Time: 2024 04 04	20:58:16,	UUID: 832f2c56-04ff-4c63-a062-78bcb0d0fe79,	Message: /img/img1.jpg	GET
+Date & Time: 2024 04 04	20:58:38,	UUID: 46c5105e-41d2-4cab-848b-651203861014,	Message: /	GET
+Date & Time: 2024 04 04	20:58:38,	UUID: 066c9f10-e257-44cb-a538-61c3b7da5537,	Message: /css/style.css	GET
+Date & Time: 2024 04 04	20:58:47,	UUID: c25e0cef-44fa-4f32-a652-3e440c6eca7a,	Message: /new-page.html	GET
+Date & Time: 2024 04 04	20:58:47,	UUID: 77839b1f-c0cc-4487-83e3-b2f89c8e309f,	Message: /css/style.css	GET
+Date & Time: 2024 04 04	20:58:47,	UUID: 963708d5-8f49-45f6-88ff-9215cf4ed638,	Message: /img/img1.jpg	GET
+Date & Time: 2024 04 04	20:58:56,	UUID: 83ac3955-d38b-4a1c-9022-561b22a87622,	Message: /old	GET
+Date & Time: 2024 04 04	20:58:56,	UUID: ddffed1e-3d3a-41ad-ba60-935ad216bcde,	Message: /css/style.css	GET
+Date & Time: 2024 04 04	20:59:13,	UUID: 3893d95d-ef4a-4ab4-b24e-90217349d8fd,	Message: /	GET
+Date & Time: 2024 04 04	20:59:13,	UUID: f5697145-655a-43c5-b841-16e4c689de50,	Message: /css/style.css	GET
