@@ -1,1 +1,1 @@
-Date & Time: 2024 04 04	20:57:13,	UUID: 80f83873-9de0-4040-8477-ef398a302444,	Message: TypeError: fsPromises.readFil is not a function
+Date & Time: 2024 04 06	20:31:24,	UUID: 1c4291c9-5647-42b7-a045-11d718925a62,	Message: Error Not allowed by cors 

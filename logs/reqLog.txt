@@ -1,16 +1,67 @@
-Date & Time: 2024 04 04	20:55:12,	UUID: 481624ca-4372-4239-b50b-9361b902b866,	Message: /new-page.html	GET
-Date & Time: 2024 04 04	20:55:12,	UUID: 91445126-aa1f-4fec-adc3-0a86ea39692e,	Message: /css/style.css	GET
-Date & Time: 2024 04 04	20:55:12,	UUID: 8859e9de-60a6-4ea3-8148-84512835ceb2,	Message: /img/img1.jpg	GET
-Date & Time: 2024 04 04	20:57:13,	UUID: 0c1ce626-9de7-4cc4-acbf-c0c8fa9c0ed0,	Message: /new-page.html	GET
-Date & Time: 2024 04 04	20:58:16,	UUID: 165f8e37-c881-4999-b068-72ac5730b02c,	Message: /new-page.html	GET
-Date & Time: 2024 04 04	20:58:16,	UUID: ec0b808b-ff65-42f1-8c78-052986d125e2,	Message: /css/style.css	GET
-Date & Time: 2024 04 04	20:58:16,	UUID: 832f2c56-04ff-4c63-a062-78bcb0d0fe79,	Message: /img/img1.jpg	GET
-Date & Time: 2024 04 04	20:58:38,	UUID: 46c5105e-41d2-4cab-848b-651203861014,	Message: /	GET
-Date & Time: 2024 04 04	20:58:38,	UUID: 066c9f10-e257-44cb-a538-61c3b7da5537,	Message: /css/style.css	GET
-Date & Time: 2024 04 04	20:58:47,	UUID: c25e0cef-44fa-4f32-a652-3e440c6eca7a,	Message: /new-page.html	GET
-Date & Time: 2024 04 04	20:58:47,	UUID: 77839b1f-c0cc-4487-83e3-b2f89c8e309f,	Message: /css/style.css	GET
-Date & Time: 2024 04 04	20:58:47,	UUID: 963708d5-8f49-45f6-88ff-9215cf4ed638,	Message: /img/img1.jpg	GET
-Date & Time: 2024 04 04	20:58:56,	UUID: 83ac3955-d38b-4a1c-9022-561b22a87622,	Message: /old	GET
-Date & Time: 2024 04 04	20:58:56,	UUID: ddffed1e-3d3a-41ad-ba60-935ad216bcde,	Message: /css/style.css	GET
-Date & Time: 2024 04 04	20:59:13,	UUID: 3893d95d-ef4a-4ab4-b24e-90217349d8fd,	Message: /	GET
-Date & Time: 2024 04 04	20:59:13,	UUID: f5697145-655a-43c5-b841-16e4c689de50,	Message: /css/style.css	GET
+Date & Time: 2024 04 06	20:17:56,	UUID: d9724093-2f8c-4716-915b-555fbfaa3593,	Message: GET	undefined	/
+Date & Time: 2024 04 06	20:17:56,	UUID: 154ea622-9359-45e5-afd3-a109782852e7,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:19:07,	UUID: e3c05428-77e3-4144-859b-ffda3eeeec9d,	Message: GET	undefined	/
+Date & Time: 2024 04 06	20:19:07,	UUID: 09b61129-47f0-4737-9d60-efcc7cd8162b,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:19:10,	UUID: efa3db8a-7771-4c9e-ae3a-ee257e8e2d2d,	Message: GET	undefined	/new-page.html
+Date & Time: 2024 04 06	20:19:10,	UUID: 053e8d9d-dc7d-48ca-ad12-509171a587e8,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:19:10,	UUID: 854a41f1-41c8-4b06-bae2-18fcc5fb4caa,	Message: GET	undefined	/img/img1.jpg
+Date & Time: 2024 04 06	20:19:15,	UUID: 67131cef-bbb7-446c-af95-ea224b4d50b0,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:21:29,	UUID: 1fcde9cd-7095-4f0d-b15c-8840a7d09486,	Message: GET	undefined	/new-page.html
+Date & Time: 2024 04 06	20:21:29,	UUID: 1a84f01f-b973-4e52-9970-81d0bdd2f3fd,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:21:29,	UUID: 6e5fa9df-fc41-4597-894e-1efa130a0a83,	Message: GET	undefined	/img/img1.jpg
+Date & Time: 2024 04 06	20:21:35,	UUID: cd59ee90-5e17-4881-b5d7-a1d525f753a8,	Message: GET	undefined	/new
+Date & Time: 2024 04 06	20:21:35,	UUID: 792d49b8-836a-485c-bdc0-f3a2aa30a6e8,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:23:38,	UUID: 841f14c7-6d72-41e5-81bc-6c44957927f2,	Message: GET	undefined	/
+Date & Time: 2024 04 06	20:23:38,	UUID: 65f7376c-2b1c-45bc-9115-1ddbe04b4c6c,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:31:39,	UUID: 3261409b-939c-407f-adca-6cc68f6f9fb2,	Message: GET	undefined	/
+Date & Time: 2024 04 06	20:31:39,	UUID: 1c4d96a0-cf5b-4593-8206-01d7594160fa,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:37:28,	UUID: 7122d78c-65a7-4022-8ed1-8adf1ec459ac,	Message: GET	undefined	/hello
+Date & Time: 2024 04 06	20:38:16,	UUID: ae597d01-04a8-4be3-ab4d-fe0133039c08,	Message: GET	undefined	/chain
+Date & Time: 2024 04 06	20:40:42,	UUID: 5471b2de-188a-4513-be7b-dc71bb46f3e8,	Message: GET	undefined	/
+Date & Time: 2024 04 06	20:40:42,	UUID: 1af54fe5-343f-48f9-8042-49245595c246,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:40:47,	UUID: de7128d2-e58d-4e8d-a297-a5f92ddff925,	Message: GET	undefined	/dave
+Date & Time: 2024 04 06	20:40:47,	UUID: 532183a1-b807-46e5-8891-1e0d73fefd63,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 06	20:46:07,	UUID: d9d1d121-b5af-4ac3-b78b-65a79069c91c,	Message: GET	undefined	/dave
+Date & Time: 2024 04 06	20:46:07,	UUID: d05d5de9-1c40-4ec5-b743-cfc903f2e698,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:08:48,	UUID: 395c0b69-ceac-45a2-af27-952e596c25d9,	Message: GET	undefined	/
+Date & Time: 2024 04 07	10:08:48,	UUID: 68b01a26-948d-4dde-a0e0-039df8eb89ee,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:08:50,	UUID: 4e402497-8a69-4a1e-96e4-8c3f8f4188c9,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:09:06,	UUID: b411b7a9-4b53-486c-8e82-1d334606391a,	Message: GET	undefined	/subdir
+Date & Time: 2024 04 07	10:09:44,	UUID: 70e747eb-d43c-4ffe-ab3e-4e8f0445c892,	Message: GET	undefined	/subdir/test
+Date & Time: 2024 04 07	10:10:25,	UUID: 7c2149e6-603f-46de-82a0-8af84ee5e919,	Message: GET	undefined	/subdir/te
+Date & Time: 2024 04 07	10:10:25,	UUID: 64ab88ae-59fa-4456-bc07-91238f762a1b,	Message: GET	undefined	/subdir/css/style.css
+Date & Time: 2024 04 07	10:11:53,	UUID: 3d20c0fa-de26-457e-a624-579ff4103f09,	Message: GET	undefined	/subdir/te
+Date & Time: 2024 04 07	10:11:53,	UUID: b9e3e8c9-11db-43e0-a995-da2dbec9bf5a,	Message: GET	undefined	/subdir/css/style.css
+Date & Time: 2024 04 07	10:28:21,	UUID: 1430d9eb-cd99-438a-b141-35b55a1d1314,	Message: GET	undefined	/subdir/te
+Date & Time: 2024 04 07	10:28:21,	UUID: 5730294d-3d09-4a04-bded-5f262c3bec14,	Message: GET	undefined	/subdir/css/style.css
+Date & Time: 2024 04 07	10:28:25,	UUID: f28ec6c3-bbe0-406a-b5ac-e0a7ab97ae31,	Message: GET	undefined	/
+Date & Time: 2024 04 07	10:28:25,	UUID: ad65aced-1d43-4872-bcc2-0af61fce2e57,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:28:31,	UUID: 03659158-c2ad-47b4-9ba3-b10fadcb625a,	Message: GET	undefined	/new-page.html
+Date & Time: 2024 04 07	10:28:31,	UUID: 5095dd37-9e65-45e8-9295-5723f7107477,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:28:31,	UUID: bafbd320-b441-4246-873e-598c668785d5,	Message: GET	undefined	/img/img1.jpg
+Date & Time: 2024 04 07	10:28:38,	UUID: 604c367d-c421-47ce-a195-f98077f3bdc6,	Message: GET	undefined	/new-p
+Date & Time: 2024 04 07	10:28:38,	UUID: d5c8b598-664b-4f5d-82b0-c77fe8157534,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:28:44,	UUID: 28941b02-1e51-41e7-9b67-371f3a336fc3,	Message: GET	undefined	/old-page.html
+Date & Time: 2024 04 07	10:28:44,	UUID: 2c9104bd-1740-4ca1-9667-ac8de0923de2,	Message: GET	undefined	/new-page.html
+Date & Time: 2024 04 07	10:28:44,	UUID: 0150f6af-ff57-4a2a-bdde-53059a3e65d2,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:28:44,	UUID: fa7226b6-ad89-4764-85c9-d90842c4859f,	Message: GET	undefined	/img/img1.jpg
+Date & Time: 2024 04 07	10:29:46,	UUID: 32da1965-5064-403f-86ef-458e4281f4b9,	Message: GET	undefined	/index.html
+Date & Time: 2024 04 07	10:29:46,	UUID: dee014ed-690c-4152-afd5-675bf127331f,	Message: GET	undefined	/css/style.css
+Date & Time: 2024 04 07	10:52:22,	UUID: e78e65b5-61ca-4d8f-8c3c-81263ff31258,	Message: GET	undefined	/
+Date & Time: 2024 04 07	10:52:50,	UUID: 2981c5a9-7c42-4130-8e13-ef1abd5c90ec,	Message: GET	undefined	/employees
+Date & Time: 2024 04 07	10:53:22,	UUID: afbeee8d-72e1-49a8-8798-d2241dbbb0a9,	Message: GET	undefined	/employees/1
+Date & Time: 2024 04 07	10:53:36,	UUID: c13d0dc2-aec4-48fd-91ed-731d220a40dc,	Message: GET	undefined	/employees/3
+Date & Time: 2024 04 07	10:53:50,	UUID: 0965467c-264d-4a6e-a6e7-e15c7087cae9,	Message: GET	undefined	/employees/
+Date & Time: 2024 04 07	10:55:47,	UUID: c9c4afd7-191a-412d-b445-21d2ab8dcb09,	Message: POST	undefined	/employees
+Date & Time: 2024 04 07	10:56:47,	UUID: bcc2fa7e-c507-4df3-acd6-4250f710764d,	Message: POST	undefined	/employees
+Date & Time: 2024 04 07	10:56:57,	UUID: 888f8910-dbb9-4229-bf70-93021bfc7163,	Message: GET	undefined	/employees
+Date & Time: 2024 04 07	10:57:39,	UUID: ed328e8d-e982-4a48-8964-9e9cf572180a,	Message: POST	undefined	/employees
+Date & Time: 2024 04 07	10:58:43,	UUID: 4a258280-9e88-407e-b89a-62a337c9370e,	Message: POST	undefined	/employees
+Date & Time: 2024 04 07	10:58:48,	UUID: 87d28b7f-c045-4bb6-b1ec-1069e3d8485e,	Message: GET	undefined	/employees
+Date & Time: 2024 04 07	10:59:34,	UUID: 89fe7e01-3f86-43ff-a15f-19d24d1677a4,	Message: POST	undefined	/employees
+Date & Time: 2024 04 07	11:00:40,	UUID: 7b6a0bf7-6ff4-4f22-b5f3-8cc1b3589c1e,	Message: PUT	undefined	/employees
+Date & Time: 2024 04 07	11:01:17,	UUID: 8c19d9f7-c07b-4cdb-a857-4b05d356fea9,	Message: PUT	undefined	/employees
+Date & Time: 2024 04 07	11:03:19,	UUID: d38f53b3-18bb-4b2a-a4ec-991885317254,	Message: DELETE	undefined	/employees/1
+Date & Time: 2024 04 07	11:04:10,	UUID: e32645d1-719f-411a-8b56-92dbdbdd7417,	Message: GET	undefined	/employees
+Date & Time: 2024 04 07	11:04:20,	UUID: b94e567f-9480-4299-83d5-ca25ef60e880,	Message: DELETE	undefined	/employees/1
+Date & Time: 2024 04 07	11:15:55,	UUID: 2c96bf83-2a55-42b8-864e-9e0f01d69de2,	Message: POST	undefined	/employees
