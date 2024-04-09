@@ -1,3 +1,4 @@
+// Depencies imports...
 const express = require("express");
 const app = express();
 const path = require("path");
@@ -5,9 +6,18 @@ const cors = require("cors");
 const corsOptions = require("./config/corsOptions");
 const { logger } = require("./middleware/logEvents");
 const errorHandler = require("./middleware/errorHandler");
-const register = require("./routes/register")
-const auth = require("./routes/auth")
+const verifyJWT = require("./middleware/verifyJWT");
+const cookieParser = require("cookie-parser");
+
+// Port from .env
 const port = process.env.PORT || 3500;
+
+// Routes imports...
+const root = require("./routes/root");
+const register = require("./routes/register");
+const auth = require("./routes/auth");
+const employees = require("./routes/api/employees");
+const refresh = require("./routes/refresh");
 
 app.use(cors(corsOptions));
 
@@ -17,14 +27,20 @@ app.use(logger);
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
+//
+app.use(cookieParser());
+
 // include static files...
 app.use("/", express.static(path.join(__dirname, "/public")));
 
 // Routes
-app.use("/", require("./routes/root"));
+app.use("/", root);
 app.use("/register", register);
 app.use("/auth", auth);
-app.use("/employees", require("./routes/api/employees"));
+app.use("/refresh", refresh);
+
+app.use(verifyJWT);
+app.use("/employees", employees);
 
 app.all("*", (req, res) => {
   res.status(404);
