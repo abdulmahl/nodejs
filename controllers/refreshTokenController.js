@@ -10,10 +10,9 @@ require("dotenv/config");
 
 const handleRefreshToken = (req, res) => {
   const cookies = req.cookies;
-  const { user, pwd } = req.body;
-  if (!cookies?.jwt) return res.status(401);
-  console.log(cookies.jwt);
+  if (!cookies?.jwt) return res.sendStatus(401);
   const refreshToken = cookies.jwt;
+
   const foundUser = usersDB.users.find(
     (person) => person.refreshToken === refreshToken
   );
@@ -24,10 +23,17 @@ const handleRefreshToken = (req, res) => {
   jwt.verify(refreshToken, process.env.REFRESH_TOKEN_SECRET, (err, decoded) => {
     if (err || foundUser.username !== decoded.username)
       return res.sendStatus(403);
+
+    const roles = Object.values(foundUser.roles);
     const accessToken = jwt.sign(
-      { username: decoded.username },
+      {
+        userInfo: {
+          username: decoded.username,
+          roles: roles,
+        },
+      },
       process.env.ACCESS_TOKEN_SECRET,
-      { expiresIn: "30s" }
+      { expiresIn: "40s" }
     );
     res.json({ accessToken });
   });

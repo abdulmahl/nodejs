@@ -8,6 +8,7 @@ const { logger } = require("./middleware/logEvents");
 const errorHandler = require("./middleware/errorHandler");
 const verifyJWT = require("./middleware/verifyJWT");
 const cookieParser = require("cookie-parser");
+const credentials = require("./middleware/credentials");
 
 // Port from .env
 const port = process.env.PORT || 3500;
@@ -18,11 +19,14 @@ const register = require("./routes/register");
 const auth = require("./routes/auth");
 const employees = require("./routes/api/employees");
 const refresh = require("./routes/refresh");
-
-app.use(cors(corsOptions));
+const logout = require("./routes/logout");
 
 // Custom middleware logger...
 app.use(logger);
+
+app.use(credentials);
+
+app.use(cors(corsOptions));
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
@@ -38,6 +42,7 @@ app.use("/", root);
 app.use("/register", register);
 app.use("/auth", auth);
 app.use("/refresh", refresh);
+app.use("/logout", logout);
 
 app.use(verifyJWT);
 app.use("/employees", employees);
